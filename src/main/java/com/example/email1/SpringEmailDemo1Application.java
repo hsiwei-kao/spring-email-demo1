@@ -15,6 +15,8 @@ public class SpringEmailDemo1Application {
 		System.out.print("downstream");
 
 		System.out.print("update");
+
+		System.out.print("測試同 repo PR");
 	}
 
 }
